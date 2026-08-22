@@ -1,0 +1,35 @@
+[33mcommit 069a2f72c975936013d7e142b96bd9333e4e60b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: adesh <adeshingle63@gmail.com>
+Date:   Sat Aug 22 10:53:10 2026 +0530
+
+    model training and testing done
+
+[33mcommit ff2101e13e68ca33ac1246896c80b0b0cf1355c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: adesh <adeshingle63@gmail.com>
+Date:   Wed Aug 19 23:05:43 2026 +0530
+
+    done
+
+[33mcommit 84aa22e5be3305a7c95c04ac2cf0b4405f4dbf5b[m
+Author: adesh <adeshingle63@gmail.com>
+Date:   Wed Aug 19 23:03:20 2026 +0530
+
+    structure sequence done
+
+[33mcommit eae5a453f124a4fed1f7bec1cbf5dafea1e71954[m
+Author: adesh <adeshingle63@gmail.com>
+Date:   Wed Aug 19 20:36:09 2026 +0530
+
+    y
+
+[33mcommit dcc73ab682727405c6a521e13a786d3c333ce9f7[m
+Author: adesh <adeshingle63@gmail.com>
+Date:   Wed Aug 19 20:23:18 2026 +0530
+
+    in main
+
+[33mcommit 71eada7d0d5c803cc2dc7f5b5257c29b28e775bf[m[33m ([m[1;32mfeature/data-preprocessing[m[33m)[m
+Author: adesh <adeshingle63@gmail.com>
+Date:   Wed Aug 19 16:50:19 2026 +0530
+
+    Initial project structure
